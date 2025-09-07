@@ -1,0 +1,7 @@
+/Users/gms/Desktop/untitled folder/Aarush-TicTacToe/bin/Release/net9.0/publish/Aarush-TicTacToe
+/Users/gms/Desktop/untitled folder/Aarush-TicTacToe/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/gms/Desktop/untitled folder/Aarush-TicTacToe/bin/Release/net9.0/publish/appsettings.json
+/Users/gms/Desktop/untitled folder/Aarush-TicTacToe/bin/Release/net9.0/publish/Aarush-TicTacToe.dll
+/Users/gms/Desktop/untitled folder/Aarush-TicTacToe/bin/Release/net9.0/publish/Aarush-TicTacToe.deps.json
+/Users/gms/Desktop/untitled folder/Aarush-TicTacToe/bin/Release/net9.0/publish/Aarush-TicTacToe.runtimeconfig.json
+/Users/gms/Desktop/untitled folder/Aarush-TicTacToe/bin/Release/net9.0/publish/Aarush-TicTacToe.pdb
